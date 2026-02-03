@@ -27,7 +27,7 @@ EDA and data preprocessing were performed using **Python (pandas)**.
 - Column standardization (snake_case)
 - Feature engineering (age groups, purchase frequency)
 - Data consistency checks
-- Loaded cleaned data into PostgreSQL
+- Loaded cleaned data into MySQL
 
 ---
 
